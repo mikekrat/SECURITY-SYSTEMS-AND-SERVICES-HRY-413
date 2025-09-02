@@ -1,0 +1,9 @@
+team 38 GIORGOS PIPERAKIS 2018030012
+		MIXALIS KRATHMENOS 2018030104
+
+The assignment has been completed as asked. 6 options -config -save -load -list -reset -help and the original files not changed.
+
+ANSWER TO THE QUESTION:
+the sites after we correctly reject them wont open at all. with the curl command we get a command that the server couldnt connect. 
+we made a test config file with 3 domains google youtube and eclass.tuc.gr and in the first two options while the curl command timed 
+out in the browser we could connect while in our small eclass we curl timed out and we couldnt connect from the browser also.
