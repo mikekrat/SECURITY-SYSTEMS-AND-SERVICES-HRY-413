@@ -1,0 +1,3 @@
+* Push to production without testing<br>
+* Get educated on XSS, SQLi and LFIs<br>
+* Improve my website's security<br>
