@@ -1,0 +1,6 @@
+rsa_assign_1 is completed as asked 
+
+the only problem is that because we used gmp_fscanf the plaintext will be read until it finds whitespace which mean that the message should be without whitespaces 
+
+the plaintext eimaiogiorgospiperakiskaiomixaliskrathmenos
+and if you run the makefile you will get to the  output file the same message

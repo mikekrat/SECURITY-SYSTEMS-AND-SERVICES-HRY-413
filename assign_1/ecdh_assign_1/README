@@ -1,0 +1,4 @@
+the ecdh tool is very simple takes the keys or produce it by itself then computes it individual his public key using both Curve25519 
+
+they learn the secret by excanging pyblic keys and  multiply them with their own private key .
+
