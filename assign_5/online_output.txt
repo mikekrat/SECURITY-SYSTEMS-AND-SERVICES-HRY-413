@@ -1,0 +1,358 @@
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 54440
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 33 bytes
+  Payload Memory Address: 0x773d40b2c158
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 46814
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 33 bytes
+  Payload Memory Address: 0x773d40b2c2a8
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 46814
+  UDP Header Length: 8 bytes
+  Payload Length: 82 bytes
+  Payload Memory Address: 0x773d40b2c428
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 54440
+  UDP Header Length: 8 bytes
+  Payload Length: 323 bytes
+  Payload Memory Address: 0x773d40b2c6c8
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 14826
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 49 bytes
+  Payload Memory Address: 0x773d40b6c168
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 1423
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 49 bytes
+  Payload Memory Address: 0x773d40b6c2d8
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 1423
+  UDP Header Length: 8 bytes
+  Payload Length: 106 bytes
+  Payload Memory Address: 0x773d40b6c480
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 14826
+  UDP Header Length: 8 bytes
+  Payload Length: 305 bytes
+  Payload Memory Address: 0x773d40b6c728
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 40257
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 29 bytes
+  Payload Memory Address: 0x773d40bac150
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 60929
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 29 bytes
+  Payload Memory Address: 0x773d40bac290
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 60929
+  UDP Header Length: 8 bytes
+  Payload Length: 86 bytes
+  Payload Memory Address: 0x773d40bac408
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 40257
+  UDP Header Length: 8 bytes
+  Payload Length: 269 bytes
+  Payload Memory Address: 0x773d40bac670
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 56590
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 31 bytes
+  Payload Memory Address: 0x773d40bec150
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 43755
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 31 bytes
+  Payload Memory Address: 0x773d40bec290
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 56590
+  UDP Header Length: 8 bytes
+  Payload Length: 92 bytes
+  Payload Memory Address: 0x773d40bec410
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 43755
+  UDP Header Length: 8 bytes
+  Payload Length: 133 bytes
+  Payload Memory Address: 0x773d40bec5f8
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 1771
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 54 bytes
+  Payload Memory Address: 0x773d40c2c168
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 5139
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 54 bytes
+  Payload Memory Address: 0x773d40c2c2d8
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 1771
+  UDP Header Length: 8 bytes
+  Payload Length: 103 bytes
+  Payload Memory Address: 0x773d40c2c478
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 5139
+  UDP Header Length: 8 bytes
+  Payload Length: 109 bytes
+  Payload Memory Address: 0x773d40c2c650
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 56103
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 39 bytes
+  Payload Memory Address: 0x773d40c2ca08
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 2295
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 39 bytes
+  Payload Memory Address: 0x773d40c2cb58
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 56103
+  UDP Header Length: 8 bytes
+  Payload Length: 295 bytes
+  Payload Memory Address: 0x773d40c2cda8
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 2295
+  UDP Header Length: 8 bytes
+  Payload Length: 96 bytes
+  Payload Memory Address: 0x773d40c2d030
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 6931
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 53 bytes
+  Payload Memory Address: 0x773d40c2d1c8
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 34491
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 53 bytes
+  Payload Memory Address: 0x773d40c2d338
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 6931
+  UDP Header Length: 8 bytes
+  Payload Length: 309 bytes
+  Payload Memory Address: 0x773d40c2d5a8
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 34491
+  UDP Header Length: 8 bytes
+  Payload Length: 110 bytes
+  Payload Memory Address: 0x773d40c2d850
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 38953
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 33 bytes
+  Payload Memory Address: 0x773d40c2d9e8
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 11764
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 33 bytes
+  Payload Memory Address: 0x773d40c2db38
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 38953
+  UDP Header Length: 8 bytes
+  Payload Length: 49 bytes
+  Payload Memory Address: 0x773d40c2dc98
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 11764
+  UDP Header Length: 8 bytes
+  Payload Length: 83 bytes
+  Payload Memory Address: 0x773d40c6c188
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 54312
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 54 bytes
+  Payload Memory Address: 0x773d40c6c4f8
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 20245
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 54 bytes
+  Payload Memory Address: 0x773d40c6c668
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 54312
+  UDP Header Length: 8 bytes
+  Payload Length: 103 bytes
+  Payload Memory Address: 0x773d40c6c808
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 20245
+  UDP Header Length: 8 bytes
+  Payload Length: 109 bytes
+  Payload Memory Address: 0x773d40c6c9e0
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 9490
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 43 bytes
+  Payload Memory Address: 0x773d40c6cb80
+
+UDP Packet:
+  Source IP: 127.0.0.1
+  Destination IP: 127.0.0.53
+  Source Port: 54917
+  Destination Port: 53
+  UDP Header Length: 8 bytes
+  Payload Length: 43 bytes
+  Payload Memory Address: 0x773d40c6cce0
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 9490
+  UDP Header Length: 8 bytes
+  Payload Length: 59 bytes
+  Payload Memory Address: 0x773d40cac170
+
+UDP Packet:
+  Source IP: 127.0.0.53
+  Destination IP: 127.0.0.1
+  Source Port: 53
+  Destination Port: 54917
+  UDP Header Length: 8 bytes
+  Payload Length: 100

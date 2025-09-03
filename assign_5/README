@@ -1,0 +1,12 @@
+askhsh 5 MIXALHS KRATHMENOS & GEORGIOS PIPERAKIS
+
+TCP is very easy to check if we have retransmission. We use a tuple of source IP , destination IP,source port, 
+destination port and serial and acknowledgement numbers and if a new tcp packet has the same numbers as one that is already created then  we mark it as retransmission.
+
+UDP is a connectionless protocol and this protocol doesnt work with sequence numbers as tcp or acknowledgement numbers in its header 
+which means that the retransmissions are not detectable at the transport.
+TCP Retransmissions: Detectable by tracking sequence numbers and analyzing flow state.
+
+To access some extra files from this assignment, 
+follow this url: https://www.dropbox.com/scl/fo/h5jc4do9zjxim721bnngy/AHGlzA9wJ_Yl8aUBbigSCgk?rlkey=3ock2j6xtgmoqrp6awx1yihse&st=kqstndn3&dl=0
+
