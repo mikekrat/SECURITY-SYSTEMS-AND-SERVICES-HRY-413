@@ -1,0 +1,318 @@
+2024-11-11 17:06:52.545533 - test_directory/test9.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 413046347185c4f5b06ca773cf705131
+  SHA256: 9dbff6faa059efdee966d31da1ab55251f58c09156326e1b35628fa2e977bc71
+  ------------------------------------
+2024-11-11 17:06:52.545772 - test_directory/test34.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: db351d0f573f962833b17c89a6b5bb99
+  SHA256: 2a7c03e7eb175cd4ba0a5d1390cd498166ad018ed7a492fc76ecf6e391edf9cf
+  ------------------------------------
+2024-11-11 17:06:52.545923 - test_directory/test42.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: d77838397eb9f0253cfc9208c228bd17
+  SHA256: 34703c9ccaf03d607b6dce397a26a280f1278a658142922210b48a26c6975078
+  ------------------------------------
+2024-11-11 17:06:52.546059 - test_directory/test6.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 83b2f9feed35325c7be9ee8ca5b4e384
+  SHA256: 3883e29b25a995222e98b6c5b650aa64f151d21e65edd9f9524d37fa1f28f988
+  ------------------------------------
+2024-11-11 17:06:52.546194 - test_directory/test39.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 4a2a4b2531ba7f3cf76da0753e781b77
+  SHA256: 199d0190e704a15e00c4c81fe299e2bfba57627d84e37f8a6acd981ca26973e4
+  ------------------------------------
+2024-11-11 17:06:52.546320 - test_directory/test16.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 517f4c8a53c588befcb20c9b44753f02
+  SHA256: 3173b4f73ec94d68ecf27dec297791543354fe6720b807cf4dbc77bb14addbbf
+  ------------------------------------
+2024-11-11 17:06:52.546452 - test_directory/test1.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 25d56717e4c9e6437e559f20d902e4aa
+  SHA256: df476713c9edb319dfcfd48216e6fbfb2b5da219f9a560563b6a379e8434831d
+  ------------------------------------
+2024-11-11 17:06:52.546580 - test_directory/test28.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 49de4ef02ade80715564dee5cce0ba91
+  SHA256: 71d5391d17c51b69334b647f0fbaaf577d7b236eec8356e4de43aca0dbb2f7e1
+  ------------------------------------
+2024-11-11 17:06:52.546715 - test_directory/test43.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 872d528e03b47a4b237685aaf52edfc7
+  SHA256: a59f4863bee917ac31047ebb19f434f881e831d5fefbeee3077beb5f03a4a2a8
+  ------------------------------------
+2024-11-11 17:06:52.546864 - test_directory/test47.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 468ade71e0737a3023bd01bd9c7d19d7
+  SHA256: 12d8d847a120180b69326a8334a4871d32f9b4e02fd5bd9d3d10049561e05ac4
+  ------------------------------------
+2024-11-11 17:06:52.546992 - test_directory/test12.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 8ab3287ced3e46985113d97fd7353695
+  SHA256: 61b790d9163d014cab4007218806934d7e60100a302da79b94a8dd442a6c840d
+  ------------------------------------
+2024-11-11 17:06:52.547119 - test_directory/test7.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: eb030a9d6ec2f4c339c6c398cb2c1b42
+  SHA256: 18662ba922749e8c85ee344ddf4725b1370ed11c0441dc6bde7e056ae43a0898
+  ------------------------------------
+2024-11-11 17:06:52.547246 - test_directory/test8.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 891f20aa3fa851b0a3cbc6474170252c
+  SHA256: c39720152b50a0630abe04ce69a0050ad5e1159be37cb8a6cad7475e95e7222f
+  ------------------------------------
+2024-11-11 17:06:52.547374 - test_directory/test2.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: f51bb2578652e2875aba3e5c919c179f
+  SHA256: 3083cc5f4d8340e1290926430609e1c8dbcdcb2f534403350daa6ee598eab862
+  ------------------------------------
+2024-11-11 17:06:52.547504 - test_directory/test36.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 634610f841a2bbe22c36be3b5dcec002
+  SHA256: ab520927b65166632e33302f3edad4c0549d1449646bf6ffa2cd7c15d04a0cca
+  ------------------------------------
+2024-11-11 17:06:52.547631 - test_directory/test11.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 4b7186fb078b1fc71fe2ed435be74c0c
+  SHA256: 16a0d77bd397734687d507045d3608193f1918f66f7734a464c0bfe8629438da
+  ------------------------------------
+2024-11-11 17:06:52.547783 - test_directory/test25.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 89941b4a3ec66566564d9894f77c94ae
+  SHA256: 6053d275fad383d0a6c81debac1441e1d4af833e9fc0cb97477320f823796bb5
+  ------------------------------------
+2024-11-11 17:06:52.547928 - test_directory/test21.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 77dad4dac27f6c168b3d286319044d13
+  SHA256: 71e45092b046e20b17399fddd8e1add42261c36f398501a462aa0d858f4bd7c6
+  ------------------------------------
+2024-11-11 17:06:52.548057 - test_directory/test23.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: e81673f86582c0309d18d699691ccc80
+  SHA256: 2a76a8053cfe2ff2e85c4bb3a6e89260406596966d78730504c3d63a96a3775a
+  ------------------------------------
+2024-11-11 17:06:52.548212 - test_directory/test31.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 9175510989a083919ac80230c71a8b13
+  SHA256: a5f16d87580ca68b9390d946f7749985050659d9ade02796bc12f7f135630bbc
+  ------------------------------------
+2024-11-11 17:06:52.548346 - test_directory/test44.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 7ad4fef502f178479ba713c39002f034
+  SHA256: 3f0c3e45d3c7307a961200ff9ad628bd67934a4220f09eef3b6e02867643b775
+  ------------------------------------
+2024-11-11 17:06:52.548472 - test_directory/test10.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 350bcfacb817184e5011dcc1c7cf09f1
+  SHA256: 1bb1bfa4b03af8b2b1952c261446e09e06c809c5115141c663c2ae2f5ac528e4
+  ------------------------------------
+2024-11-11 17:06:52.548599 - test_directory/test32.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 93e7bf62401eca79b60a9a889356d973
+  SHA256: 462595418d636c02add97fd2db64452faf85327062cf83ac2b25f416a7a0e5c3
+  ------------------------------------
+2024-11-11 17:06:52.548741 - test_directory/test5.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 1d3d6cb919babf15621de1f8ec372323
+  SHA256: c6bdad312a9acb7d9ad19d6e51cef79fc8e83e486ac1657eccb5a08bef306943
+  ------------------------------------
+2024-11-11 17:06:52.548873 - test_directory/test0.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: be7a6c719f97a5ad623881a40a785bbb
+  SHA256: afe310aef1aeef730b6f0ce973816b4e80ba14ad4a4fc670a180374f4bb47f64
+  ------------------------------------
+2024-11-11 17:06:52.549004 - test_directory/test37.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 72666f677803550a52d26b1ee57c2571
+  SHA256: d08575bb64ce8ffb8ac28c18282da4984076645c1b48caa5bceb95ed059eae89
+  ------------------------------------
+2024-11-11 17:06:52.549150 - test_directory/test24.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 8f01a116c82114a89807b13dcd61a6b0
+  SHA256: ae85e6131f6bd13f905f9a2e65f9cb4efe27ad0627e6144426373e4252180d6e
+  ------------------------------------
+2024-11-11 17:06:52.549309 - test_directory/test14.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 0a233fd6d5aead5b031367304e63a6b7
+  SHA256: 0c8fbdc3d7c242a8629675bccc577496559859be0464a9ae9a845d018587615a
+  ------------------------------------
+2024-11-11 17:06:52.549499 - test_directory/TVuSX/test35.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 7534cb6165fab7749753a07a76621998
+  SHA256: 946316350c323d858032226c47e988b6929051ab56df7bba88db83ed15783397
+  ------------------------------------
+2024-11-11 17:06:52.549646 - test_directory/TVuSX/test18.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 2eb9cf170826ef85371b3bfb9ed13762
+  SHA256: defd94c27968a513ad7bebb786b2d87180552ece50c531eec94a15923150d0b8
+  ------------------------------------
+2024-11-11 17:06:52.549857 - test_directory/TVuSX/eXWIx/WnUZs/test29.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: f792b29693dbd3f7d65870e3250c58ff
+  SHA256: 133d9b624c0dea4cb84432aa1022922e4d3d7c9d2fa440d07594ff96000801a1
+  ------------------------------------
+2024-11-11 17:06:52.550039 - test_directory/TVuSX/eXWIx/gdNFX/test17.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 6329183a48d3338b3614f734fc01f220
+  SHA256: 0d9d189200e8efa7c85164062b358413a6fd3a592062277fff0f3965d49b8265
+  ------------------------------------
+2024-11-11 17:06:52.550297 - test_directory/TVuSX/OdIYL/uUUME/test49.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 84545f0cc51930abaf0cc19e4a84ec49
+  SHA256: 4f3c49a00409ce88f36d779449b0941240f027a3ca9d5f5a63015c79e1788042
+  ------------------------------------
+2024-11-11 17:06:52.550460 - test_directory/TVuSX/OdIYL/uUUME/test46.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 1885f830ec6a2c5ff8949312819d1b2b
+  SHA256: b7d4da43b198442c5ca01b5b11d5a2130f6a5126e74663ca113b9d40a3cad389
+  ------------------------------------
+2024-11-11 17:06:52.550611 - test_directory/TVuSX/OdIYL/uUUME/test30.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 3959c963c71423ba8e0abcadadbd3483
+  SHA256: 9084ad2d7f812035d4cc72bdbc4b63722b793a82a37639f31760c5d6561cae0b
+  ------------------------------------
+2024-11-11 17:06:52.550829 - test_directory/TVuSX/KZoQk/XyPeo/test3.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 13a179ff070409a3dc3d4a98f901aa82
+  SHA256: ddcfc2f9a312d83444d7e01b7015ad924c3e2ad4a66c023fdcd1d2aacb1e2980
+  ------------------------------------
+2024-11-11 17:06:52.551037 - test_directory/lAIie/test13.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 51706b74809a669da92b241cf1e3e5e1
+  SHA256: e5df2f0b3faf77e23ff8f2ebe7d38f944c41ccb4b9ec9397d44745ed93c7f568
+  ------------------------------------
+2024-11-11 17:06:52.551174 - test_directory/lAIie/test48.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: f3f9be7993d7b434a18ae6c6a2085218
+  SHA256: 36175f1157daf16fc2e37e7f96afbe3e7475a83ee16c0af3489c56db32ce1ccb
+  ------------------------------------
+2024-11-11 17:06:52.551341 - test_directory/lAIie/GwRea/test15.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 26b38696182d273979c1f3e22c78fde0
+  SHA256: 3cacebc573af90d4c9818ceb51594e329d2a48986751e3c8514f0b20b87f1f79
+  ------------------------------------
+2024-11-11 17:06:52.551482 - test_directory/lAIie/GwRea/test19.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: cb89e159ce9eb8368e3df9a4528300ac
+  SHA256: dcc3b5c815d5accf9ac89ccb3f75dede89bb3813f84ff69a2e3c0fa10a83cf63
+  ------------------------------------
+2024-11-11 17:06:52.551648 - test_directory/lAIie/GwRea/eoQYP/test4.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 9767fb1ff222c355a2b14c9d7d820420
+  SHA256: ee1fb7281fb235aca2616c21d50b6ff7ee4294f30c2f32e5dba00b0eb79e6988
+  ------------------------------------
+2024-11-11 17:06:52.551803 - test_directory/lAIie/GwRea/eoQYP/test41.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: a2d4dfc55ac36ee9e426b1d14a868778
+  SHA256: 99a63f3811a8410260ae92a4a511276d055041072711b434c59ea42d1450214c
+  ------------------------------------
+2024-11-11 17:06:52.551977 - test_directory/TxHNi/test45.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 3987ec8bbd756592cf9bff22bd4e86b0
+  SHA256: 1c564bcaa8022cc4ee52157c0e65d694a43bbee279ab6f41ab7f08295d578843
+  ------------------------------------
+2024-11-11 17:06:52.552141 - test_directory/TxHNi/XKDzk/test40.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 5219a9c58d3a875339b06aef13d62b0c
+  SHA256: bbba5da0632aba07890d0cd662e0453db8bfafd070b6138b815dac7f29dbfa6b
+  ------------------------------------
+2024-11-11 17:06:52.552280 - test_directory/TxHNi/XKDzk/test20.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: 8400127a37092b6ff5527e9f1dc42557
+  SHA256: c5d9aa0957e7a8b7e3e6438e3422116472a641a927a89fecec0fe68a07525df5
+  ------------------------------------
+2024-11-11 17:06:52.552446 - test_directory/TxHNi/XKDzk/qtQPV/test22.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: bdd04470741795cae1f6cff94a76d921
+  SHA256: fdc7ade1bf4199dcc8700cf93322c1d62140f8ec40dfcfb5663874c9701f33c4
+  ------------------------------------
+2024-11-11 17:06:52.552582 - test_directory/TxHNi/XKDzk/qtQPV/test38.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 512a12c6ec3803a5cdb0921c94c8f17a
+  SHA256: 432ff54bdc1dbe3e10865a80bc0960874ce494f02838196ffc1c47e14a70837c
+  ------------------------------------
+2024-11-11 17:06:52.552776 - test_directory/TxHNi/ocoMC/test33.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 966fef98f4410807f87db4cb1dcde671
+  SHA256: 3eb9d69dcb517aaebb7073cee9e5ab70df0940c3659e7b9cc57dbc13ecc893ac
+  ------------------------------------
+2024-11-11 17:06:52.552968 - test_directory/TxHNi/ocoMC/NNfSv/test26.txt - Infected (Low)
+  Size: 64 bytes
+  Type: txt
+  MD5: 6a58d9ae91d681966ef207a3cf72dce9
+  SHA256: aab0a094feb74a283c4b74c7c9d74a9b6a7ab5c2fe6640ab381b5f3a3987894f
+  ------------------------------------
+2024-11-11 17:06:52.553115 - test_directory/TxHNi/ocoMC/NNfSv/test27.txt - Infected (High)
+  Size: 64 bytes
+  Type: txt
+  MD5: a390624a9ec572fa6656a855e82664d6
+  SHA256: 065defceccbe59ac4c183965c5c214dcef4e2249c1dd5af9a02d81c965070311
+  ------------------------------------
+2024-11-11 23:27:02.908963 - test_directory_task_C/.goutputstream-8FULX2 - Clean
+  Size: 0 bytes
+  Type: goutputstream-8FULX2
+  MD5: d41d8cd98f00b204e9800998ecf8427e
+  SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  ------------------------------------
+2024-11-11 23:27:38.220184 - test_directory_task_C/jcJmu/.goutputstream-W8G1W2 - Clean
+  Size: 0 bytes
+  Type: goutputstream-W8G1W2
+  MD5: d41d8cd98f00b204e9800998ecf8427e
+  SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  ------------------------------------
+2024-11-11 23:28:22.301105 - test_directory_task_C/.goutputstream-HHK9W2 - Clean
+  Size: 0 bytes
+  Type: goutputstream-HHK9W2
+  MD5: d41d8cd98f00b204e9800998ecf8427e
+  SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  ------------------------------------

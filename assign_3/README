@@ -1,0 +1,30 @@
+Names: 1. Georgios Piperakis 2018030012
+	   2. Michail Kratimenos 2018030104
+	   
+every task was designed individualy
+task A
+concists of create_signature_database.py / malware_detection.py / multi_hash_validation.py
+
+task B
+concists of scan_and_quarantine.py 
+
+task C
+observer.py
+
+there is a Makefile that was created for the purpose of testing the programms
+individualy
+
+testA is the files that was created for the taskA, test_directory for taskB and test_directory_c for the taskC
+
+the quarantine is the directory where the programm quarantines the infected files for the taskB and the quarantine_c for the taskC
+
+malware_signatures.txt where the random generated signatures that were used in all of the above tasks
+
+END
+the malware_tool is the tool that runs with the python code
+python3 tool.py -d  test -s malware_signatures.txt -o log.txt -r (optional)
+
+all of the tasks are completed
+
+To access some extra files from this assignment, 
+follow this url: https://www.dropbox.com/scl/fo/jfgmdyrqj0rfnxldw85oa/AO-6DORXYs4CViTAIeFsmqc?rlkey=z1fwrw703kkro3y2o5chi0lp7&st=3eh6dbue&dl=0
