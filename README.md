@@ -1,4 +1,4 @@
-# SECURITY-SYSTEMS-AND-SERVICES-HRY-413
+# SECURITY-IN-SYSTEMS-AND-SERVICES-HRY-413
 
 This repository contains the assignments we developed during the academic year **2024–2025** for the course **Security in Systems and Services**.  
 
