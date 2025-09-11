@@ -10,4 +10,4 @@ This repository contains the assignments we developed during the academic year *
 - Assignments 3 and 5 require some additional files, which are provided via Dropbox links in their README files.
 
 ## Collaborators
-- [George Piperakis]([https://github.com/janedoe](https://github.com/giorgosPiperakis))
+- [George Piperakis]([https://github.com/giorgosPiperakis])
